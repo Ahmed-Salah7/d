@@ -1,0 +1,1 @@
+{{ invoicePaid($id) }}

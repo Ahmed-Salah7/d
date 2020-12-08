@@ -1,0 +1,56 @@
+.table.table-bordered.dataTable th:last-child,
+.table.table-bordered.dataTable td:last-child{
+        border-right: 1px solid #dee2e6;
+}
+.erp-ticket-bottom-border{ border-bottom: 1px solid rgba(0,0,0,.1);margin-top: 1rem;margin-bottom: 1rem; }
+.attachment-border{ border-top: 2px dotted rgba(0,0,0,.1); }
+.attachment-padding { padding-right: 5px;padding-left: 5px; }
+span.text-box{
+	font-size: 13px;
+	display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.erp-table .table td, .table th{
+	padding: 5px;
+}
+.ribbon {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 1;
+    overflow: hidden;
+    width: 130px;
+    height: 114px;
+    text-align: right;
+}
+.ribbon span {
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 20px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    width: 115px;
+    display: block;
+    background: #46cd93;
+    position: absolute;
+    top: 23px;
+    right: -25px;
+}
+.ribbon span.danger { background: #f24734; }
+.ribbon span.warning { background: #fdba45; }
+.ribbon span.info { background: #4bbbce; }
+.success-status{ color: #46cd93;  }
+.success-status:hover{ color: #46cd93;  }

@@ -1,0 +1,2 @@
+ <button type="button" class="btn btn-primary edit-transfer_sponsorship_request" data-id="{{ $id }}" data-title="{{ __('page.edit_transfer_sponsorship_request') }}"><i class="fas fa-edit"></i></button>
+ <button type="button" class="btn btn-danger waves-effect waves-light delete-transfer_sponsorship_request"  data-id="{{ $id }}"><i class="fas fa-trash-alt"></i></button>

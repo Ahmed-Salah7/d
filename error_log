@@ -1,0 +1,66 @@
+[26-Aug-2019 10:14:29 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:30 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:31 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:32 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:32 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:33 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:14:33 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:19:21 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:22:26 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:23:07 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[26-Aug-2019 10:23:10 Etc/GMT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request in /home/connetrp/public_html/laravelrtl/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234

@@ -1,0 +1,2 @@
+<button type="button" class="btn btn-primary edit-role" data-id="{{ $id }}" data-title="{{ __('page.edit_role') }}"><i class="fas fa-edit"></i></button>
+<button type="button" class="btn btn-danger waves-effect waves-light delete-role"  data-id="{{ $id }}"><i class="fas fa-trash-alt"></i></button>

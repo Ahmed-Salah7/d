@@ -1,0 +1,1 @@
+{{ Carbon\Carbon::parse($date_of_contract)->format('d/m/Y') }}

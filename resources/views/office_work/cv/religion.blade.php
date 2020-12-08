@@ -1,0 +1,1 @@
+{{ (Session::get('locale') =='en') ? $religion_english : $religion  }}

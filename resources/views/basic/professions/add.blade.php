@@ -1,0 +1,30 @@
+<div class="card mb-0">
+    @include('includes.form_error')
+    <div class="card-body pb-0">
+        <form method="POST" id="add_profession" autocomplete="off">
+            {{ csrf_field() }}
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label>{{ __('page.occupation') }}</label>
+                        <input type="text" class="form-control" value="" name="occupation">
+                    </div>
+                </div>
+                 <div class="col-md-6">
+                    <div class="form-group">
+                        <label>{{ __('page.job_english') }}</label>
+                        <input type="text" class="form-control" value="" name="job_english">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group mb-0">
+                        <button type="submit" class="btn btn-primary">{{ __('page.add_profession') }} <i class="fas "></i></button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

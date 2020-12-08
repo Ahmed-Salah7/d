@@ -1,0 +1,2 @@
+ <button type="button" class="btn btn-primary edit-visa_type" data-id="{{ $id }}" data-title="{{ __('page.edit_visa_type') }}"><i class="fas fa-edit"></i></button>
+ <button type="button" class="btn btn-danger waves-effect waves-light delete-visa_type"  data-id="{{ $id }}"><i class="fas fa-trash-alt"></i></button>

@@ -1,0 +1,1 @@
+ {{ (Session::get('locale') =='en') ? $job_english : $occupation  }}

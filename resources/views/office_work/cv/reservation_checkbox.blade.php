@@ -1,0 +1,1 @@
+ <input type="checkbox" value="{{ $reservation }}" @if( $reservation == 1 ) {{ 'checked' }} @endif disabled="disabled">
